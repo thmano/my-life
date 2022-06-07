@@ -1,0 +1,20 @@
+.display{
+    width: calc(100% - 200px);
+    margin-left: 200px;
+    font-family: 'Roboto';
+    text-align: left;
+    padding: 10px;
+}
+.text_introduction{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 166%;
+    letter-spacing: 0.4px;
+    color: #9E9E9E;
+    width: 90%;
+}
+.technologies{
+    display: flex;
+    max-width: 500px;
+    overflow-y: auto;
+}
