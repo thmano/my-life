@@ -24,3 +24,8 @@
     position: fixed;
     
 }
+.header_menu{
+width: 115px;
+justify-content: space-evenly;
+display: flex;
+}
